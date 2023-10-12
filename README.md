@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [myportfolio.com](https://monishgupta.netlify.app/))
+- 👨‍💻 All of my projects are available at [My Portfolio](https://monishgupta.netlify.app/))
 
 - 💬 Ask me about **React.js, Next.js and Tailwind.css**
 
-- 📫 How to reach me **monishgupta72@gmail.com**
+- 📫 Feel free to react me at **monishgupta72@gmail.com**
 
-- 📄 Know about my experiences [addresumelink.com](addresumelink.com)
+- 📄 Know about my experiences [Resume Link](addresumelink.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
