@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [addportfoliolink.com](addportfoliolink.com)
+- 👨‍💻 All of my projects are available at [myportfolio.com](https://monishgupta.netlify.app/))
 
 - 💬 Ask me about **React.js, Next.js and Tailwind.css**
 
