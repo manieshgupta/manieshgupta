@@ -11,7 +11,7 @@
 
 - 📫 Feel free to react me at **manieshgupta333@gmail.com**
 
-- 📄 Know about my experiences [Resume Link](addresumelink.com)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/15JdE9B0Uk9SWrwJAAUxJ48adDtRUN0sD/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
