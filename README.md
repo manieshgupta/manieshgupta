@@ -1,22 +1,22 @@
 ![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)
-<h1 align="center">Hi 👋, I'm Monish Gupta</h1>
+<h1 align="center">Hi 👋, I'm Maniesh Gupta</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"/>
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://monishgupta.netlify.app/))
+- 👨‍💻 All of my projects are available at [My Portfolio](https://manieshgupta.netlify.app/))
 
 - 💬 Ask me about **React.js, Next.js and Tailwind.css**
 
-- 📫 Feel free to react me at **monishgupta72@gmail.com**
+- 📫 Feel free to react me at **manieshgupta333@gmail.com**
 
 - 📄 Know about my experiences [Resume Link](addresumelink.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/monish-gupta-9a4572152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monish-gupta-9a4572152" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/monish_gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="monish_gupta" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/maniesh-gupta-9a4572152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maniesh-gupta-9a4572152" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/maniesh_gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="maniesh_gupta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
